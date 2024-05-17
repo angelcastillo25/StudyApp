@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">StudyApp_project</string>
+
+    <!-- Register Layout!-->
+    <string name="principal_title">Registrate</string>
+    <string name="welcome_title">Bienvenido!</string>
+    <string name="welcome_description">Ingresa tus datos para empezar</string>
+    <string name="label_name">Nombre y Apellido</string>
+    <string name="input_name">Nombre</string>
+    <string name="label_career">Carrera que estudias</string>
+    <string name="label_enter">Cuando ingresaste a la Universidad</string>
+    <string name="button_next">Siguiente</string>
+
 </resources>

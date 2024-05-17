@@ -2,4 +2,18 @@
 <resources>
 
     <style name="Theme.StudyApp_project" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="RegisterInput">
+        <item name="android:background">@drawable/input_style</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="RegisterLabels">
+        <item name="android:textColor">@color/text_grey</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
 </resources>
